@@ -1,9 +1,1 @@
-
-
-<div align="center">
-  <h2>Welcome to Inês' GitHub </h2>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Welcome+to+Ines;Desenvolvedora+Software;Explorando+novas+tecnologias)](https://git.io/typing-svg)
